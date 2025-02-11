@@ -10,6 +10,9 @@ Dedicated software engineer seeking opportunities to apply expertise and contrib
 
 **Tools & Technologies**: Linux, Git, Eclipse, MySQL, PostgreSQL, MongoDB, DynamoDB, Azure, AWS, Maven, Postman
 
+### 📜 Certifications
+- AWS Certified Developer - Associate
+- Microsoft Certified: Azure Fundamentals
 ### 📫 Connect with Me
 [LinkedIn](https://www.linkedin.com/in/ying-jessica-sun/)
 
